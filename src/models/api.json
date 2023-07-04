@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Amigo Fiel",
+        "categoria": " Clinica Veterinária",
+        "especialidades": "Consultas, Vacinas",
+        "endereço": {
+            "rua": "Bom Jesus, 101",
+            "bairro": "Cruz de Rebouças",
+            "cidade": "Igarassu"
+        }
+    },
+    {
+        "nome": "EspaçoDeles",
+        "categoria": " Pet Shop",
+        "especialidades": "Banho, Tosa",
+        "endereço": {
+            "rua": "Dos Magistrados, 145",
+            "bairro": "Candeias",
+            "cidade": "Jaboatão Dos Guararapes"
+        }
+    },
+    {
+        "nome": "Pet Love",
+        "categoria": " Hotelzinho",
+        "especialidades": "Pernoite, Recreação",
+        "endereço": {
+            "rua": "Padre Carapuceiro, 777",
+            "bairro": "Boa Viagem",
+            "cidade": "Recife"
+        }
+    },
+    {
+        "nome": "Vet Center",
+        "categoria": " Hospital Veterinário",
+        "especialidades": "Cirurgias, Laboratórios",
+        "endereço": {
+            "rua": "Demétrio de Souza, 1760",
+            "bairro": "Nobre",
+            "cidade": "Paulista"
+        }
+    },
+    {
+        "nome": "KiPet Elegante",
+        "categoria": " Moda Pet",
+        "especialidades": "Acessórios, Roupas",
+        "endereço": {
+            "rua": "Carmelita Muniz, 225",
+            "bairro": "Casa Caiada",
+            "cidade": "Olinda"
+        }
+    }
+]
